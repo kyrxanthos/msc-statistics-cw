@@ -42,6 +42,12 @@ In this module we developed models and tools to understand complex and high-dime
 
 <img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf" width="800" height="300" />
 
+<object data="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 
 ### Computational Statistics
 
