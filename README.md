@@ -35,3 +35,46 @@ The course focused on a variety of useful techniques including methods for regre
 ## Statistical Genetics and Bionformatics
 In this module we developed models and tools to understand complex and high-dimensional genetics datasets. This included statistical and machine learning techniques for: multiple testing, penalised regression, clustering, p-value combination, dimension reduction. The module covered both Frequentist and Bayesian statistical approaches. In addition to the statistical approaches, we were introduced to genome-wide association and expression studies data, next generation sequencing and other OMICS datasets.
 
+
+## Some results
+
+### Big Data
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf" width="800" height="300" />
+
+
+### Computational Statistics
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Computational_Statistics/A2/Code/Trace1.pdf" width="800" height="300" />
+
+
+### Data Science
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Data_Science/plots/all_maps.png" width="800" height="600" />
+
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Data_Science/plots/y_transformed-crop.pdf" width="800" height="300" />
+
+
+### Machine Learning
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/allroc-crop.pdf" width="800" height="300" />
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/post_all-crop.pdf" width="800" height="300" />
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/two_models_bayes-crop.pdf" width="800" height="300" />
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW2/plots/3d-crop.pdf" width="500" height="500" />
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW2/plots/nested-crop.pdf" width="800" height="300" />
+
+
+
+
+
+### Statistical Genetics and Bioinformatics
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Statistical_Genetics/CW1/Plots/ppa_plot" width="800" height="300" />
+
+<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Statistical_Genetics/CW2/Code/plots/single_siluette.pdf" width="800" height="300" />
+
