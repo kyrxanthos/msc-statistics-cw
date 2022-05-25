@@ -71,6 +71,6 @@ In this module we developed models and tools to understand complex and high-dime
 
 ### Statistical Genetics and Bioinformatics
 
-![](Statistical_Genetics/CW1/Plots/pca_plot.png)
+![](Statistical_Genetics/CW1/Plots/ppa.png)
 
-![](Statistical_Genetics/CW2/Code/plots/ppa.png)
+![](Statistical_Genetics/CW2/Code/plots/sil.png)
