@@ -1,0 +1,74 @@
+2016-06-06 16:05:18, fixed-prox, iarlotti001, 2, 1
+2016-06-06 16:05:18, fixed-prox, ebello001, 2, 1
+2016-06-06 16:05:29, fixed-prox, yfinney001, 2, 1
+2016-06-06 16:05:33, fixed-prox, iarlotti001, 2, 7
+2016-06-06 16:05:33, fixed-prox, ebello001, 2, 7
+2016-06-06 16:05:37, fixed-prox, sbagni001, 1, 4
+2016-06-06 16:06:18, fixed-prox, sbagni001, 2, 4
+2016-06-06 16:06:20, fixed-prox, sbagni001, 2, 1
+2016-06-06 16:06:24, fixed-prox, zcoronado001, 2, 1
+2016-06-13 23:58:06, fixed-prox, ebello001, 1, 1
+2016-06-13 23:59:05, fixed-prox, tquiroz002, 2, 4
+2016-06-13 23:59:23, fixed-prox, dcoginian001, 2, 7
+2016-06-13 23:59:39, fixed-prox, dcoginian001, 2, 1
+2016-06-13 23:59:46, fixed-prox, tquiroz002, 1, 4
+2016-06-13 23:59:48, fixed-prox, tquiroz002, 1, 1
+
+
+2016-06-06 ebello001	1
+2016-06-06 yfinney001	1
+2016-06-06 iarlotti001	1
+2016-06-06 ebello001	1
+2016-06-06 sbagni001	1
+2016-06-06 sbagni001	1
+2016-06-06 sbagni001	1
+2016-06-06 zcoronado001	1
+2016-06-13 ebello001	1
+2016-06-13 tquiroz002	1
+2016-06-13 dcoginian001	1
+2016-06-13 dcoginian001	1
+2016-06-13 tquiroz002	1
+
+
+# q2 mapper
+
+2 1	1
+2 1	1
+2 7	1
+2 7	1
+1 4	1
+2 4	1
+2 1	1
+2 1	1
+1 1	1
+2 4	1
+2 7	1
+2 1	1
+1 4	1
+
+
+PROX fixed
+
+timestamp, type, prox-id, floor, zone
+2016-05-31 00:05:00, fixed-prox, vawelon001, 1, 1
+2016-05-31 00:20:00, fixed-prox, earpa001, 1, 1
+2016-05-31 02:26:40, fixed-prox, earpa001, 1, 6
+2016-05-31 02:31:41, fixed-prox, vawelon001, 1, 6
+2016-05-31 03:12:00, fixed-prox, earpa001, 1, 1
+2016-05-31 03:28:00, fixed-prox, vawelon001, 1, 1
+2016-05-31 05:57:40, fixed-prox, earpa001, 1, 6
+2016-05-31 05:57:41, fixed-prox, vawelon001, 1, 6
+2016-05-31 06:47:00, fixed-prox, vawelon001, 1, 1
+
+PROX MOBILE
+
+timestamp, type, prox-id, floor, x, y
+2016-05-31 09:00:00, mobile-prox, vlagos001, 1, 174, 15
+2016-05-31 09:00:00, mobile-prox, vlagos001, 1, 174, 15
+2016-05-31 09:00:00, mobile-prox, vlagos001, 1, 174, 15
+2016-05-31 09:01:00, mobile-prox, sfusil001, 1, 165, 15
+2016-05-31 09:01:00, mobile-prox, sfusil001, 1, 165, 15
+2016-05-31 09:01:00, mobile-prox, sfusil001, 1, 165, 15
+2016-05-31 09:01:00, mobile-prox, sfusil001, 1, 165, 15
+2016-05-31 09:01:00, mobile-prox, sfusil001, 1, 165, 15
+2016-05-31 09:06:00, mobile-prox, dscozzese001, 1, 27, 71
