@@ -40,47 +40,37 @@ In this module we developed models and tools to understand complex and high-dime
 
 ### Big Data
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf" width="800" height="300" />
 
-<object data="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Big_Data/programs/shifted_haz-crop.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![](Big_Data/programs/haz.png)
 
 
 ### Computational Statistics
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Computational_Statistics/A2/Code/Trace1.pdf" width="800" height="300" />
+
+
+![](Computational_Statistics/A2/Code/trace.png)
 
 
 ### Data Science
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Data_Science/plots/all_maps.png" width="800" height="600" />
-
-
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Data_Science/plots/y_transformed-crop.pdf" width="800" height="300" />
+![](Data_Science/plots/all_maps.png)
 
 
 ### Machine Learning
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/allroc-crop.pdf" width="800" height="300" />
-
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/post_all-crop.pdf" width="800" height="300" />
-
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW1/Plots/two_models_bayes-crop.pdf" width="800" height="300" />
-
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW2/plots/3d-crop.pdf" width="500" height="500" />
-
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Machine_Learning/CW2/plots/nested-crop.pdf" width="800" height="300" />
+![](Machine_Learning/CW1/Plots/all_roc.png)
 
 
+![](Machine_Learning/CW1/Plots/post_all.png)
+
+![](Machine_Learning/CW2/plots/3d.png)
+
+![](Machine_Learning/CW2/plots/nested.png)
 
 
 
 ### Statistical Genetics and Bioinformatics
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Statistical_Genetics/CW1/Plots/ppa_plot" width="800" height="300" />
+![](Statistical_Genetics/CW1/Plots/pca_plot.png)
 
-<img src="https://github.com/kyrxanthos/msc-statistics-cw/tree/master/Statistical_Genetics/CW2/Code/plots/single_siluette.pdf" width="800" height="300" />
-
+![](Statistical_Genetics/CW2/Code/plots/ppa.png)
